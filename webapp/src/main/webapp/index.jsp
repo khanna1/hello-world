@@ -1,3 +1,5 @@
+<h1>Welcome to the Login Page</h1>
+<h2>This is the simple devops project<h2>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
