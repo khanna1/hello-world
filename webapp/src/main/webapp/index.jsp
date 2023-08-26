@@ -1,12 +1,11 @@
 <h1>Welcome to the Login Page</h1>
-<<<<<<< HEAD
 <h2>djfshfk<h2>
 <h3>jdhjshf<h3>
 <h3>jhashjf<h3>
 =======
 <h3>dgshgashdgashdghsa</h3>
 <h3>hzjhgjhsgdjash</h3>
->>>>>>> 131704c77d848e990b3d279428c8c2f1726e34d9
+131704c77d848e990b3d279428c8c2f1726e34d9
 <h2>This is the simple devops project<h2>
 <form action="action_page.php">
   <div class="container">
