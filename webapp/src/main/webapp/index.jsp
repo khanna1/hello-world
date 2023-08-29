@@ -6,6 +6,8 @@
 <h3>dgshgashdgashdghsa</h3>
 <h3>hzjhgjhsgdjash</h3>
 131704c77d848e990b3d279428c8c2f1726e34d9
+
+<h1> Now updating hellow world code to see hello-world jenkins job functionality</h1>
 <h2>This is the simple devops project<h2>
 <form action="action_page.php">
   <div class="container">
@@ -13,7 +15,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter first name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
