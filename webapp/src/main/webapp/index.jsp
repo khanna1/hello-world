@@ -1,5 +1,4 @@
 <h1>Welcome to the Login Page</h1>
-==============================
 
 <h1> Now updating hellow world code to see hello-world jenkins job functionality</h1>
 <h2>This is the simple devops project<h2>
