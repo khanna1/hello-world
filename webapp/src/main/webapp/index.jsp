@@ -1,8 +1,5 @@
 <h1>Welcome to the Login Page</h1>
-=======
-<h3>dgshgashdgashdghsa</h3>
-<h3>hzjhgjhsgdjash</h3>
-131704c77d848e990b3d279428c8c2f1726e34d9
+==============================
 
 <h1> Now updating hellow world code to see hello-world jenkins job functionality</h1>
 <h2>This is the simple devops project<h2>
